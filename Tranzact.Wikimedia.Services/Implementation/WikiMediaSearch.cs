@@ -24,6 +24,9 @@ namespace Tranzact.Wikimedia.Services.Implementation
         }
         public async Task<List<WikimediaDto>> DownloadMultipleFilesAsync(IList<WikimediaDto> doclist)
         {
+            if (doclist == null || doclist.Count==0)
+                throw new ArgumentNullException("The parameter is invalid", nameof(doclist));
+
             var list = await Task.WhenAll(doclist.Select(doc => DownloadFileAsync(doc)));
 
             return list.ToList(); 
@@ -31,10 +34,15 @@ namespace Tranzact.Wikimedia.Services.Implementation
         }
         public async Task<WikimediaDto> DownloadFileAsync(WikimediaDto doc) 
         {
-            try
-            {
-                string requestUrl = ConfigurationWikimedia.GetBaseUrl();
+                if (doc == null  )
+                throw new ArgumentNullException("The parameter is invalid", nameof(doc));
+
+
+            string requestUrl = ConfigurationWikimedia.GetBaseUrl();
                 string directory = ConfigurationWikimedia.GetPath();
+
+            Console.WriteLine("directory");
+            Console.WriteLine(directory);
 
                 doc.localPath = directory + doc.nameFile ;
 
@@ -54,12 +62,7 @@ namespace Tranzact.Wikimedia.Services.Implementation
                    
                     
                 return doc;
-            }
-            catch (Exception e)
-            {
-
-                throw;
-            }
+             
         
         }
 

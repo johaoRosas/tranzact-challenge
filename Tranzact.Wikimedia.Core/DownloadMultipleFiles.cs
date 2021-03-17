@@ -20,8 +20,8 @@ namespace Tranzact.Wikimedia.Core
         public async Task<IList<WikimediaEntity>> DownloadMultipleFilesAsync(IList<WikimediaEntity> list)
         {
 
-            if (list == null || list.Count == 0)
-                throw new ArgumentException("The parameter is invalid", nameof(list));
+            //if (list == null || list.Count == 0)
+            //    throw new ArgumentException("The parameter is invalid", nameof(list));
 
             search = new WikiMediaSearch();
             mapper = new Mapper();

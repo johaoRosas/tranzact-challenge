@@ -12,4 +12,10 @@
     <ProjectReference Include="..\Tranzact.Wikimedia.Infrastructure\Tranzact.Wikimedia.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="App.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

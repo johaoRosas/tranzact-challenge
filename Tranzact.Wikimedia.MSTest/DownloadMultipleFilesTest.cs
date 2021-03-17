@@ -4,11 +4,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Tranzact.Wikimedia.Core;
-using Tranzact.Wikimedia.Core.Entities;
-using Tranzact.Wikimedia.Core.Interfaces;
 
-namespace Tranzact.Wikimedia.Test.Core
+namespace Tranzact.Wikimedia.MSTest
 {
     [TestClass]
     public class DownloadMultipleFilesTest
@@ -46,11 +43,12 @@ namespace Tranzact.Wikimedia.Test.Core
 
 
 
-        public IList<WikimediaEntity> GetTestData() {
+        public IList<WikimediaEntity> GetTestData()
+        {
 
             List<WikimediaEntity> testData = new List<WikimediaEntity>
             {
-                new WikimediaEntity { 
+                new WikimediaEntity {
                 day = "01",
                 extension = ".gz",
                 hour = "01",

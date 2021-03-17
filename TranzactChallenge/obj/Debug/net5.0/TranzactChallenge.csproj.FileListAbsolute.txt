@@ -1,9 +1,5 @@
-C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\obj\Debug\net5.0\TranzactChallenge.csprojAssemblyReference.cache
-C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\obj\Debug\net5.0\TranzactChallenge.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\obj\Debug\net5.0\TranzactChallenge.AssemblyInfoInputs.cache
-C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\obj\Debug\net5.0\TranzactChallenge.AssemblyInfo.cs
-C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\obj\Debug\net5.0\TranzactChallenge.csproj.CoreCompileInputs.cache
 C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\bin\Debug\net5.0\TranzactChallenge.exe
+C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\bin\Debug\net5.0\CodesEntity.json
 C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\bin\Debug\net5.0\TranzactChallenge.dll.config
 C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\bin\Debug\net5.0\TranzactChallenge.deps.json
 C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\bin\Debug\net5.0\TranzactChallenge.runtimeconfig.json
@@ -12,6 +8,7 @@ C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\bin\Debug\net5.0
 C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\bin\Debug\net5.0\ref\TranzactChallenge.dll
 C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\bin\Debug\net5.0\TranzactChallenge.pdb
 C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\bin\Debug\net5.0\System.Drawing.Common.dll
 C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
@@ -38,10 +35,14 @@ C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\bin\Debug\net5.0
 C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\bin\Debug\net5.0\Tranzact.Wikimedia.Core.Interfaces.pdb
 C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\bin\Debug\net5.0\Tranzact.Wikimedia.Services.pdb
 C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\bin\Debug\net5.0\Tranzact.Wikimedia.Util.pdb
+C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\obj\Debug\net5.0\TranzactChallenge.csprojAssemblyReference.cache
+C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\obj\Debug\net5.0\TranzactChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\obj\Debug\net5.0\TranzactChallenge.AssemblyInfoInputs.cache
+C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\obj\Debug\net5.0\TranzactChallenge.AssemblyInfo.cs
+C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\obj\Debug\net5.0\TranzactChallenge.csproj.CoreCompileInputs.cache
 C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\obj\Debug\net5.0\TranzactChallenge.csproj.CopyComplete
 C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\obj\Debug\net5.0\TranzactChallenge.dll
 C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\obj\Debug\net5.0\ref\TranzactChallenge.dll
 C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\obj\Debug\net5.0\TranzactChallenge.pdb
 C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\obj\Debug\net5.0\TranzactChallenge.genruntimeconfig.cache
-C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\bin\Debug\net5.0\CodesEntity.json
-C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\johao\Source\Repos\TranzactChallenge\TranzactChallenge\bin\Debug\net5.0\App.config
