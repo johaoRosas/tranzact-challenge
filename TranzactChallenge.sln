@@ -37,6 +37,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tranzact.Wikimedia.Util", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tranzact.Wikimedia.Test", "Tranzact.Wikimedia.Test\Tranzact.Wikimedia.Test.csproj", "{19611D64-6846-4EF6-8500-FB173FE573F5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8AAEB452-0AB9-4BDB-BAB5-AC51603A09E1}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.dm = Readme.dm
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
