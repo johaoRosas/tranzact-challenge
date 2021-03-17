@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+   <None Include="CodesEntity.json" CopyToOutputDirectory="Always" />
+    <ProjectReference Include="..\Tranzact.Wikimedia.Core\Tranzact.Wikimedia.Core.csproj" />
+    <ProjectReference Include="..\Tranzact.Wikimedia.Infrastructure.Intergaces\Tranzact.Wikimedia.Infrastructure.Interfaces.csproj" />
+    <ProjectReference Include="..\Tranzact.Wikimedia.Infrastructure\Tranzact.Wikimedia.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

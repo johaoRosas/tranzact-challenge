@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3UBKfxBVH+3b4iF8q5nGRtVFkJZuNUsuJEaovffwnHQPyNpn0JF0MGOOkdfJ11etNURjlHBPEPmfaiNN550fIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johao\\Source\\Repos\\TranzactChallenge\\Tranzact.Wikimedia.Core.Interfaces\\Tranzact.Wikimedia.Core.Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johao\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\johao\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MSTest.TestFramework" Version="2.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tranzact.Wikimedia.Core.Entities\Tranzact.Wikimedia.Core.Entities.csproj" />
+    <ProjectReference Include="..\Tranzact.Wikimedia.Core\Tranzact.Wikimedia.Core.csproj" />
+  </ItemGroup>
+
+</Project>

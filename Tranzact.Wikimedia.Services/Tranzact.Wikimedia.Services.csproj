@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tranzact.Wikimedia.Configuration\Tranzact.Wikimedia.Configuration.csproj" />
+    <ProjectReference Include="..\Tranzact.Wikimedia.Util\Tranzact.Wikimedia.Util.csproj" />
+  </ItemGroup>
+
+</Project>

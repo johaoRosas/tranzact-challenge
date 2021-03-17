@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KgqHuWgzHLz4XPk1ASPwuNAOcL5+GIv5wdK40J4be2vvaFRSOWO2bK0DZVcI1lTJp/vfbPwCxysctJzDvLiU0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johao\\Source\\Repos\\TranzactChallenge\\Tranzact.Wikimedia.Util\\Tranzact.Wikimedia.Util.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johao\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

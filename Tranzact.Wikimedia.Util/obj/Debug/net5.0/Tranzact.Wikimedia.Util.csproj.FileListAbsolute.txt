@@ -1,0 +1,12 @@
+C:\Users\johao\Source\Repos\TranzactChallenge\Tranzact.Wikimedia.Util\bin\Debug\net5.0\Tranzact.Wikimedia.Util.deps.json
+C:\Users\johao\Source\Repos\TranzactChallenge\Tranzact.Wikimedia.Util\bin\Debug\net5.0\Tranzact.Wikimedia.Util.dll
+C:\Users\johao\Source\Repos\TranzactChallenge\Tranzact.Wikimedia.Util\bin\Debug\net5.0\ref\Tranzact.Wikimedia.Util.dll
+C:\Users\johao\Source\Repos\TranzactChallenge\Tranzact.Wikimedia.Util\bin\Debug\net5.0\Tranzact.Wikimedia.Util.pdb
+C:\Users\johao\Source\Repos\TranzactChallenge\Tranzact.Wikimedia.Util\obj\Debug\net5.0\Tranzact.Wikimedia.Util.csprojAssemblyReference.cache
+C:\Users\johao\Source\Repos\TranzactChallenge\Tranzact.Wikimedia.Util\obj\Debug\net5.0\Tranzact.Wikimedia.Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johao\Source\Repos\TranzactChallenge\Tranzact.Wikimedia.Util\obj\Debug\net5.0\Tranzact.Wikimedia.Util.AssemblyInfoInputs.cache
+C:\Users\johao\Source\Repos\TranzactChallenge\Tranzact.Wikimedia.Util\obj\Debug\net5.0\Tranzact.Wikimedia.Util.AssemblyInfo.cs
+C:\Users\johao\Source\Repos\TranzactChallenge\Tranzact.Wikimedia.Util\obj\Debug\net5.0\Tranzact.Wikimedia.Util.csproj.CoreCompileInputs.cache
+C:\Users\johao\Source\Repos\TranzactChallenge\Tranzact.Wikimedia.Util\obj\Debug\net5.0\Tranzact.Wikimedia.Util.dll
+C:\Users\johao\Source\Repos\TranzactChallenge\Tranzact.Wikimedia.Util\obj\Debug\net5.0\ref\Tranzact.Wikimedia.Util.dll
+C:\Users\johao\Source\Repos\TranzactChallenge\Tranzact.Wikimedia.Util\obj\Debug\net5.0\Tranzact.Wikimedia.Util.pdb

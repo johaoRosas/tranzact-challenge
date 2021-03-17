@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tranzact.Wikimedia.Core.Interfaces\Tranzact.Wikimedia.Core.Interfaces.csproj" />
+    <ProjectReference Include="..\Tranzact.Wikimedia.Infrastructure.Intergaces\Tranzact.Wikimedia.Infrastructure.Interfaces.csproj" />
+    <ProjectReference Include="..\Tranzact.Wikimedia.Infrastructure\Tranzact.Wikimedia.Infrastructure.csproj" />
+    <ProjectReference Include="..\Tranzact.Wikimedia.Services\Tranzact.Wikimedia.Services.csproj" />
+  </ItemGroup>
+
+</Project>

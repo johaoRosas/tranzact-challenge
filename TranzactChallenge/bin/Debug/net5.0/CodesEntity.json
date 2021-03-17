@@ -1,0 +1,67 @@
+{
+  "list": [
+    {
+      "code": "",
+      "description": "wikipedia"
+    },
+    {
+      "code": "b",
+      "description": "wikibooks"
+    },
+    {
+      "code": "d",
+      "description": "wiktionary"
+    },
+    {
+      "code": "f",
+      "description": "wikimediafoundation"
+    },
+    {
+      "code": "m",
+      "description": "wikimedia",
+      "listSubdomains": [
+        "commons",
+        "meta",
+        "incubator",
+        "species",
+        "strategy",
+        "outreach",
+        "usability",
+        "quality"
+      ]
+    },
+    {
+      "code": "mw",
+      "description": "WHITELISTED_PROJECT"
+    },
+    {
+      "code": "n",
+      "description": "wikinews"
+    },
+    {
+      "code": "q",
+      "description": "wikiquote"
+    },
+    {
+      "code": "s",
+      "description": "wikisource"
+    },
+    {
+      "code": "v",
+      "description": "wikiversity"
+    },
+    {
+      "code": "voy",
+      "description": "wikivoyage"
+    },
+    {
+      "code": "w",
+      "description": "mediawiki"
+    },
+    {
+      "code": "wd",
+      "description": "wikidata"
+    }
+
+  ]
+}
